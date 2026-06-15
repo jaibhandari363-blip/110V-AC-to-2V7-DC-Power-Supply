@@ -17,3 +17,9 @@ the output to 2.7V DC at 200mA.
 - BOM validation through datasheet analysis
 - PCB layout with ERC/DRC verification and GND copper pour
 - Bench validation of output voltage regulation and ripple
+
+ ## Schematic
+![Schematic](Schematic.png)
+
+## PCB Layout
+![PCB Layout](PCBLayout.png)
