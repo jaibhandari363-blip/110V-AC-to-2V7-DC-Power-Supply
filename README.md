@@ -22,4 +22,4 @@ the output to 2.7V DC at 200mA.
 ![Schematic](Schematic.png)
 
 ## PCB Layout
-![PCB Layout](PCB Layout.png)
+![PCB Layout](PCB_Layout.png)
